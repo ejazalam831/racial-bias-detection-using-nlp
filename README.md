@@ -50,4 +50,4 @@ Amanda Fear, Ejaz Alam, Nikolay Jamgaryan
 ## Acknowledgments
 - Zenodo.org for hosting the "Navigating News Narratives: A Media Bias Analysis Dataset"
 
-For a detailed analysis, please refer to the full project report.
+For a detailed analysis, please refer to the full project report [here.](https://github.com/ejazalam831/racial_bias_detection_using_nlp/blob/main/Project%20Report/Project%20Report.pdf)
