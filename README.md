@@ -1,9 +1,9 @@
 # Racial Bias Detection in News Articles
 
 ## Project Overview
-This project is a culmination of our Milestone Project for the Master of Applied Data Science program at the University of Michigan. Our team has employed advanced Natural Language Processing (NLP) techniques to detect and quantify racial bias in news articles. The goal of this research is to contribute to fair and inclusive reporting practices by providing a data-driven analysis of how news articles discuss and portray racial dynamics.
+This project is a culmination of our Milestone Project for the Master of Applied Data Science program at the University of Michigan. Our team employed advanced Natural Language Processing (NLP) techniques to detect and quantify racial bias in news articles. The goal of this project is to contribute to fair and inclusive reporting practices by providing a data-driven analysis of how news articles discuss and portray racial dynamics.
 
-By leveraging both supervised and unsupervised machine learning methods, we aim to shed light on the subtle and overt ways racial bias can manifest in media narratives. This work not only demonstrates our technical proficiency in data science but also underscores our commitment to using these skills to address critical societal issues.
+By leveraging both supervised and unsupervised machine learning methods, we aim to shed light on the subtle and overt ways racial bias can manifest in media narratives. 
 
 ## Data Source
 The primary data source is the "Navigating News Narratives: A Media Bias Analysis Dataset" from Zenodo.org. The dataset contains over 3.7 million rows, from which a subset of 41,769 records related to racial bias was selected for analysis.
